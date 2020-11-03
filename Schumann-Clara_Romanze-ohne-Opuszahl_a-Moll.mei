@@ -606,7 +606,7 @@
                                     </layer>
                                 </staff>
                                 <dynam xml:id="dynam-0000001842710770" place="below" staff="1" tstamp="2.500000" vgrp="300">mf</dynam>
-                                <slur xml:id="slur-0000000123300169" startid="#chord-0000000314073785" endid="#chord-0000001229377689" curvedir="above"/>
+                                <slur xml:id="slur-0000000123300169" startid="#chord-0000001626205221" endid="#chord-0000001229377689" curvedir="above"/>
                             </measure>
                             <measure xml:id="measure-0000000070015397" n="14">
                                 <staff xml:id="staff-0000001149598502" n="1">
