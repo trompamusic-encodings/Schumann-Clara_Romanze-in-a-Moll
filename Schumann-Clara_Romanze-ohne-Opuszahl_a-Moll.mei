@@ -2592,7 +2592,7 @@
                                     </layer>
                                 </staff>
                                 <slur xml:id="slur-0000001295930103" startid="#note-0000000519858357" endid="#note-0000000355640238" curvedir="above"/>
-                                <slur xml:id="slur-0000001934776373" startid="#note-0000000752571308" endid="#note-0000000915806517" curvedir="above"/>
+                                <slur xml:id="slur-0000001934776373" startid="#note-0000001562836104" endid="#note-0000000944833170" curvedir="above"/>
                             </measure>
                             <measure xml:id="measure-0000001625173740" n="50">
                                 <staff xml:id="staff-0000000949284060" n="1">
