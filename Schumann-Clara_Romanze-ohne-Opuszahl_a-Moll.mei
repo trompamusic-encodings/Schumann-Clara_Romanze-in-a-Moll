@@ -1789,7 +1789,7 @@
                                 <staff xml:id="staff-0000001534514813" n="2">
                                     <layer xml:id="layer-0000001459345268" n="1">
                                         <tuplet xml:id="tuplet-0000000805186889" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                            <rest xml:id="rest-0000001481583676" dur="8"/>
+                                            <rest xml:id="rest-0000001481583676" dur="8" oloc="3" ploc="d"/>
                                             <beam xml:id="beam-0000000903955567">
                                                 <note xml:id="note-0000001481895691" dur="8" oct="3" pname="b" stem.dir="up"/>
                                                 <note xml:id="note-0000001853024378" dur="8" oct="4" pname="d" stem.dir="up"/>
@@ -1931,7 +1931,7 @@
                                 <staff xml:id="staff-0000001647765834" n="2">
                                     <layer xml:id="layer-0000000051260326" n="1">
                                         <tuplet xml:id="tuplet-0000001936037331" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                            <rest xml:id="rest-0000000307202773" dur="8"/>
+                                            <rest xml:id="rest-0000000307202773" dur="8" oloc="4" ploc="b"/>
                                             <beam xml:id="beam-0000000606318423">
                                                 <note xml:id="note-0000000583830346" dur="8" oct="4" pname="d" stem.dir="up"/>
                                                 <note xml:id="note-0000000583842079" dur="8" oct="4" pname="f" stem.dir="up" accid.ges="s"/>
@@ -2057,7 +2057,7 @@
                                 <staff xml:id="staff-0000001205237886" n="2">
                                     <layer xml:id="layer-0000001367391498" n="1">
                                         <tuplet xml:id="tuplet-0000001526400339" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                            <rest xml:id="rest-0000000370850511" dur="8"/>
+                                            <rest xml:id="rest-0000000370850511" dur="8" oloc="4" ploc="b"/>
                                             <beam xml:id="beam-0000000886994783">
                                                 <note xml:id="note-0000002037324054" dur="8" oct="3" pname="f" stem.dir="up" accid.ges="s"/>
                                                 <note xml:id="note-0000001705163393" dur="8" oct="4" pname="a" stem.dir="up"/>
